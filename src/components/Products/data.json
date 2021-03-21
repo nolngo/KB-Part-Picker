@@ -1,0 +1,122 @@
+[
+  {
+    "id":1,
+    "name":"Gateron Blue",
+    "type":"clicky",
+    "image":"./bluegateron.jpg"
+  },
+  {
+    "id":2,
+    "name":"Gateron Brown",
+    "type":"tactile",
+    "image":"./browngateron.jpg"
+  },
+  {
+    "id":3,
+    "name":"Gateron Red",
+    "type":"linear",
+    "image":"./redgateron.jpg"
+  },
+  {
+    "id":4,
+    "name":"Gateron Yellow",
+    "type":"linear",
+    "image":"./yellowgateron.jpg"
+  },
+  {
+    "id":5,
+    "name":"Gateron Black",
+    "type":"linear",
+    "image":"./blackgateron.jpg"
+  },
+  {
+    "id":6,
+    "name":"Novelkeys Cream",
+    "type":"linear",
+    "image":"./creamnovelkeys.jpeg"
+  },
+  {
+    "id":7,
+    "name":"Kailh Box Navy",
+    "type":"clicky",
+    "image":"./navykailhbox.jpeg"
+  },
+  {
+    "id":8,
+    "name":"Kailh Box Jade",
+    "type":"clicky",
+    "image":"./jadekailhbox.jpeg"
+  },
+  {
+    "id":9,
+    "name":"Kailh Box Pink",
+    "type":"clicky",
+    "image":"./pinkkailhbox.jpeg"
+  },
+  {
+    "id":10,
+    "name":"Cherry MX Black",
+    "type":"linear",
+    "image":"./blackcherry.jpeg"
+  },
+  {
+    "id":11,
+    "name":"Cherry MX Red",
+    "type":"linear",
+    "image":"./redcherry.jpeg"
+  },
+  {
+    "id":12,
+    "name":"Cherry MX Blue",
+    "type":"clicky", 
+    "image":"./bluecherry.jpeg"
+  },
+  {
+    "id":13,
+    "name":"Cherry MX Brown",
+    "type":"tactile",
+    "image":"browncherry.jpeg"
+  },
+  {
+    "id":14,
+    "name":"Cherry MX Green",
+    "type":"clicky",
+    "image":"greencherry.jpeg"
+  },
+  {
+    "id":15,
+    "name":"Cherry MX Silent Red",
+    "type":"linear",
+    "image":"silentredcherry.jpeg"
+  },
+  {
+    "id":16,
+    "name":"Zealios v2",
+    "type":"tactile",
+    "image":"./zealiosv2.jpg"
+  },
+  {
+    "id":17,
+    "name":"Tealios V2",
+    "type":"linear",
+    "image":"./tealiosv2.jpg"
+  },
+  {
+    "id":18,
+    "name":"Zilents V2",
+    "type":"tactile",
+    "image":"./zilentsv2.jpg"
+  },
+  {
+    "id":19,
+    "name":"Alpaca",
+    "type":"linear",
+    "image":"./alpaca.jpeg"
+  },
+  {
+    "id":20,
+    "name":"Holy Panda",
+    "type":"tactile",
+    "image":"./holypanda.jpeg"
+  }
+]
